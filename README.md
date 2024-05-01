@@ -3,11 +3,6 @@
 <h3 align="center">I'm Joe, a Creative Software Engineer with a passion for AI</h3>
 
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joevascript1&theme=gruvbox" alt="GitHub Trophies">
-</p>
-
 <!-- Introduction -->
 <p align="center">🔭 I’m currently working on <a href="https://github.com/JoevaScript1/Youtube-Chat-Bot-Max.git">Youtube x MAX Chat Bot</a></p>
 <p align="center">
@@ -17,13 +12,6 @@
 <p align="center">👯 I’m looking to collaborate on DAW & Music Notation Projects</p>
 <p align="center">👨‍💻 All of my projects are available at <a href="https://jlfullstack.com">jlfullstack.com</a></p>
 <p align="center">⚡ Fun fact: I play in two bands</p>
-
-<!-- Connect with me -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/joseph-liani-792493181" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/joe.liani.3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-</p>
 
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
@@ -43,6 +31,14 @@
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
 </p>
 
+<!-- Connect with me -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/joseph-liani-792493181" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/joe.liani.3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+</p>
+
+
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joevascript1&layout=compact&theme=dark" alt="Top Languages">
@@ -50,6 +46,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=joevascript1&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joevascript1&theme=gruvbox" alt="GitHub Trophies">
 </p>
 
 <!-- Profile views -->
