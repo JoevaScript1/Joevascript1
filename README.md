@@ -2,10 +2,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center">I'm Joe, a Creative Software Engineer with a passion for AI</h3>
 
-<!-- Profile views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joevascript1&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views">
-</p>
 
 <!-- GitHub Trophies -->
 <p align="center">
@@ -18,6 +14,9 @@
 </p>
 
 <p align="center">🔭 I’m currently working on <a href="https://github.com/JoevaScript1/Youtube-Chat-Bot-Max.git">Youtube x MAX Chat Bot</a></p>
+![Profile gif]
+(https://github.com/JoevaScript1/Joevascript1/assets/131012752/dcf56847-c8eb-48e6-81b0-e18b577f0349)
+
 <p align="center">👯 I’m looking to collaborate on DAW & Music Notation Projects</p>
 <p align="center">👨‍💻 All of my projects are available at <a href="https://jlfullstack.com">jlfullstack.com</a></p>
 <p align="center">⚡ Fun fact: I play in two bands</p>
@@ -55,3 +54,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=joevascript1&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
+
+<!-- Profile views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joevascript1&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views">
+</p>
+
