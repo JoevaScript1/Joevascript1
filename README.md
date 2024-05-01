@@ -10,7 +10,8 @@
 
 <!-- Introduction -->
 <p align="center">
-  <img src="https://github.com/JoevaScript1/Joevascript1/blob/main/assets/profile-gif.gif" alt="Profile gif">
+![Profile gif](https://github.com/JoevaScript1/Joevascript1/assets/131012752/fec5667e-0f25-4f94-999f-59af1deccd67)
+
 </p>
 
 <p align="center">🔭 I’m currently working on <a href="https://github.com/JoevaScript1/Youtube-Chat-Bot-Max.git">Youtube x MAX Chat Bot</a></p>
