@@ -10,7 +10,7 @@
 
 <!-- Introduction -->
 <p align="center">
-![Profile gif](https://github.com/JoevaScript1/Joevascript1/assets/131012752/fec5667e-0f25-4f94-999f-59af1deccd67)
+<img src="https://github.com/JoevaScript1/Joevascript1/assets/131012752/fec5667e-0f25-4f94-999f-59af1deccd67">
 
 </p>
 
