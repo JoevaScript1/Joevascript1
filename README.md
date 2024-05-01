@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joevascript1" alt="joevascript1" /></a> </p>
 
 - 🔭 I’m currently working on [Youtube x MAX Chat Bot](https://github.com/JoevaScript1/Youtube-Chat-Bot-Max.git)
+![Profile gif](https://github.com/JoevaScript1/Joevascript1/assets/131012752/3a0d7787-bdc9-4f90-ae1e-045c8c047c2f)
 
 - 👯 I’m looking to collaborate on **DAW & Music Notation Projects**
 
