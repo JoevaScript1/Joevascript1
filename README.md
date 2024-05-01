@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm Joe, a Creative Software Engineer with a passion for AI</h3>
+<h3 align="center">I'm Joe, a Creative, detail-oriented, software engineer with a deep interest in AI. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach.</h3>
 
 
 <!-- Introduction -->
