@@ -14,8 +14,7 @@
 </p>
 
 <p align="center">🔭 I’m currently working on <a href="https://github.com/JoevaScript1/Youtube-Chat-Bot-Max.git">Youtube x MAX Chat Bot</a></p>
-![Profile gif]
-(https://github.com/JoevaScript1/Joevascript1/assets/131012752/dcf56847-c8eb-48e6-81b0-e18b577f0349)
+![Profile gif](https://github.com/JoevaScript1/Joevascript1/assets/131012752/dcf56847-c8eb-48e6-81b0-e18b577f0349)
 
 <p align="center">👯 I’m looking to collaborate on DAW & Music Notation Projects</p>
 <p align="center">👨‍💻 All of my projects are available at <a href="https://jlfullstack.com">jlfullstack.com</a></p>
